@@ -1,0 +1,2 @@
+#these files and dirs mustn't be published
+*.env
